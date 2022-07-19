@@ -1,4 +1,4 @@
-# Leonardo Cechella Velho
+# Olá, sou Leonardo Velho!
 
 - 🔭 Atualmente trabalho como Desenvolvedor Full-Stack
 - 🌱 Estudando Node.JS
